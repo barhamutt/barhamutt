@@ -58,8 +58,9 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
