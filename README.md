@@ -71,7 +71,7 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
 
 <p align="center">
   <img
-    width="800"
+    width="740"
     src="https://github-readme-activity-graph.vercel.app/graph?username=barhamutt&theme=tokyo-night"
   />
 </p>
