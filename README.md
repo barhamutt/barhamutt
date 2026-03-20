@@ -68,10 +68,11 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&theme=tokyonight&layout=compact"
   />
 </p>
-
+<!--
 <p align="center">
   <img
     width="740"
     src="https://github-readme-activity-graph.vercel.app/graph?username=barhamutt&theme=tokyo-night"
   />
 </p>
+-->
