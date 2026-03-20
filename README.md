@@ -58,18 +58,20 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=barhamutt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=barhamutt&show_icons=true&theme=tokyonight"
   />
-  
   <img 
-    alt="Top Langs" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&theme=tokyonight&layout=compact"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="800"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=barhamutt&theme=tokyo-night"
   />
 </p>
