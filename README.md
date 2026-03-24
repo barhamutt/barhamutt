@@ -92,7 +92,7 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
   <br/>
   <img 
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&theme=tokyonight&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&amp;theme=tokyonight&amp;layout=compact&amp;count_private=true&amp;langs_count=10"
   />
 </p>
 <!--
