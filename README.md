@@ -38,6 +38,24 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
 />
 <img 
     align="left" 
+    alt="Bash Script" 
+    title="Bash Script"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<br/>
+<br/>
+<img 
+    align="left" 
     alt="HTML5" 
     title="HTML5"
     width="30px" 
@@ -60,22 +78,6 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bash Script" 
-    title="Bash Script"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
 
 <br/>
 <br/>
@@ -87,10 +89,7 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=barhamutt&show_icons=true&theme=tokyonight"
   />
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&theme=tokyonight&layout=compact"
-  />
+  
 </p>
 <!--
 <p align="center">
