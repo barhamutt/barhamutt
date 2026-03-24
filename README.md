@@ -84,12 +84,16 @@ Atualmente, também compartilho conhecimento em meu canal no YouTube "[Porão do
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
-    height="180"
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=barhamutt&show_icons=true&theme=tokyonight"
   />
-  
+  <br/>
+  <img 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barhamutt&theme=tokyonight&layout=compact"
+  />
 </p>
 <!--
 <p align="center">
