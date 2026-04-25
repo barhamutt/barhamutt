@@ -1,7 +1,7 @@
 # 👨🏻‍💻 barhamutt
 
 ### $ whoami 
-**`Cybersecurity Analyst | DevSecOps | Full Stack`**
+**`Cybersecurity Analyst | DevSecOps | Pentest`**
 
 Me chamo _Ian Lucas Lobato Barra da Silva_, sou estudante de ciência da computação pela IFPA, com foco em Segurança Cibernetica, Linux e Automações de Sistemas. Tenho experiência com infraestrutura, monitoramento de redes e servidores, além de um grande interesse em desenvolvimento e programação.
 <!--
